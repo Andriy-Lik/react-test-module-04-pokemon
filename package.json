@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Andriy-Lik.github.io/react-test-module-03-pokemon/",
+  "homepage": "https://Andriy-Lik.github.io/react-test-module-04-pokemon/",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
